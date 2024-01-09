@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gitbook-plugin-theme-comscore": "^0.0.3",
+    "gitbook-plugin-theme-default": "^1.0.7",
+    "gitbook-plugin-theme-door": "^1.0.1"
+  }
+}
+
+

@@ -1,0 +1,98 @@
+{
+    "plugins": [
+        "highlight",
+        "theme-default",
+        "theme-comscore",
+        "flow",
+        "image-zoom",
+        "comment",
+        "sequence",
+        "navbar"
+    ],
+    "pluginsConfig": {
+        "navbar": {
+            "logo": {
+            "link": "http://www.feisilab.com/",
+            "image": "/images/feisi_logo.png",
+            "alt": "feisilab"
+            },
+            "menu": {
+            "items": [{
+                "text": "RflySim高级版中文文档",
+                "link": "http://doc.rflysim.com/RflySimIntro.html"
+            }, {
+                "text": "安装包下载",
+                "link": "https://rflysim.com/download.html"
+            }, {
+                "text": "课件下载",
+                "link": "https://rflysim.com/docs/#/4_Pro/Advanced"
+            }, {
+                "text": "PDF版下载",
+                "link": "https://pan.baidu.com/s/1n3OFPN_aZlNaHF4u72mPaA?pwd=c8f9"
+            }, {
+                "text": "基础版教程",
+                "link": "https://rflysim.com/docs/#/"
+            }, {
+                "text": "购买教具",
+                "link": "https://shop212206553.taobao.com/"
+            }, {
+                "text": "飞思实验室官网",
+                "link": "http://www.feisilab.com/"
+            }
+            ],
+            "style": {
+                "color": "black",
+                "hover": "#3579e2"
+            }
+            },
+            "style": {
+            "backgroundColor": "white",
+            "linkColor": "black",
+            "linkHoverColor": "blue"
+            },
+
+            "toc": {
+                "addClass": true,
+                "className": "toc"
+            }
+        },
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "showLevel": false,
+            "logo": {},
+            "navs": [
+                {
+                    "title": "安装包下载",
+                    "url": "https://rflysim.com/download.html",
+                    "target": true
+                },
+                {
+                    "title": "课件下载",
+                    "url": "https://rflysim.com/docs/#/4_Pro/Advanced",
+                    "target": true
+                },
+                {
+                    "title": "PDF版下载",
+                    "url": "https://pan.baidu.com/s/1n3OFPN_aZlNaHF4u72mPaA?pwd=c8f9",
+                    "target": true
+                },
+                {
+                    "target": true,
+                    "title": "基础版教程",
+                    "url": "https://rflysim.com/"
+                },
+                {
+                    "title": "购买教具",
+                    "url": "https://shop212206553.taobao.com/",
+                    "target": true
+                },
+                {
+                    "title": "飞思实验室官网",
+                    "url": "http://www.feisilab.com/",
+                    "target": true
+                }
+            ]
+        }
+    }
+}

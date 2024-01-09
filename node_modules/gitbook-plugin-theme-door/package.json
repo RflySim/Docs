@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-theme-door",
+  "version": "1.0.1",
+  "description": "A standard theme for gitbook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/key7men/gitbook-plugin-theme-door.git"
+  },
+  "keywords": [
+    "Header",
+    "Sidebar",
+    "Minimap",
+    "Gitbook",
+    "Theme"
+  ],
+  "author": "key7men",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/key7men/gitbook-plugin-theme-door/issues"
+  },
+  "homepage": "https://github.com/key7men/gitbook-plugin-theme-door#readme",
+  "dependencies": {},
+  "engines": {
+    "gitbook": ">=3.2.3"
+  }
+}

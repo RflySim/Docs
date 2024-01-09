@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: RflySim Documentation
+    url: https://rflysim.com
+    about: For a more detailed introduction of the RflySim platform, please see!
+  - name: RflySim Issue Collection
+    url: https://github.com/RflySim/Docs/issues
+    about: If you found an issue during use, please submit it directly to the docs repository issues
